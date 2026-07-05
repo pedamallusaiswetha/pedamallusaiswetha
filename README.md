@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi I am Sai Swetha 
+"Passionate Engineering student with a focus on building efficient, scalable software solutions. I enjoy transforming real-world problems into clean, modular code and am constantly exploring the intersection of data management and user experience. Always eager to learn, collaborate, and contribute to impactful tech projects."
 
 <!--
 **pedamallusaiswetha/pedamallusaiswetha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
